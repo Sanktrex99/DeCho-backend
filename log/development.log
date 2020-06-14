@@ -1687,3 +1687,5 @@ Processing by UsersController#index as HTML
 Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.4ms | Allocations: 3730)
 
 
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /Users/reesebowman/.rvm/gems/ruby-2.6.3/bin/rake:23)
