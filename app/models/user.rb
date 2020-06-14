@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-  validates_uniqueness_of :twitterhandle
+  validates_uniqueness_of :twitterHandle
 end
